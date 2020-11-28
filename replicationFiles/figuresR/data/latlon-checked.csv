@@ -1,0 +1,400 @@
+id,country,location,long,lat,where_prec
+139,Angola,Bengo,13.82743,-8.97504,2
+147,Angola,Kamatende,18.5,-12.5,6
+148,Angola,Keutepwe,18.5,-12.5,5
+149,Angola,Kifangondo,13.4331,-8.76514,1
+151,Angola,Kwanza Norte,18.5,-12.5,4
+156,Angola,Luau,22.22466,-10.70727,1
+160,Angola,Malanje,16.34096,-9.54015,1
+161,Angola,Moxico,15.36106,-11.48367,4
+163,Angola,Sungi,13.46375,-6.47257,6
+166,Angola,Viana,15.93338,-8.84649,2
+593,Burundi,Butare : Point,29.23333,-2.78611,1
+595,Burundi,Bwagiriza : Point,30.29997,-3.34759,6
+597,Burundi,Cibitoke,29.25,-2.88333,2
+598,Burundi,Cishemeye,30,-3.5,6
+601,Burundi,Gatumba,29.859,-3.7541,2
+602,Burundi,Giharo,30.2348,-3.7791,2
+603,Burundi,Gihinga,30.0535,-3.2787,3
+607,Burundi,Mugano,30.41875,-2.60179,3
+612,Burundi,Rugombo,29.082,-2.8095,2
+613,Burundi,Rwisuri,30.0267,-2.7233,6
+450,Benin,Agame,1.76048,6.72748,1
+453,Benin,Come,1.88198,6.40764,1
+456,Benin,Kpomasse,2.021,6.461,2
+569,Burkina Faso,Damba,-2,13,6
+587,Burkina Faso,Sag-Nioniogo : Point,-0.75,12.58333,6
+633,C�Ã�´te D'Ivoire,Nicla,-5,8,6
+643,C�Ã�´te D'Ivoire,Zone d'accueil,-5,8,6
+5785,Cameroon,Bandongoue,14.21667,4.4,6
+5786,Cameroon,Barka Lamou,12,6,6
+5788,Cameroon,Bebarang,12,6,6
+5789,Cameroon,Belebina,12,6,6
+5790,Cameroon,Belimbam,14.76667,4.33333,6
+5791,Cameroon,Belita II,14.7,4.38333,6
+5793,Cameroon,Bimbappe,12,6,6
+5794,Cameroon,Bindiba,14.38333,6.06667,6
+683,Cameroon,Boforo,14.78333,7.15,6
+5795,Cameroon,Bombe Bakari,14.93333,7.25,6
+5796,Cameroon,Bombe Chateau,12,6,6
+5798,Cameroon,Bougogo,14.35,4.5,6
+695,Cameroon,Colomine,12,6,6
+5800,Cameroon,Diel,12,6,6
+5801,Cameroon,Dip,10.26841,5.02036,6
+5802,Cameroon,Djakone,12,6,6
+5803,Cameroon,Djallo,12,6,6
+708,Cameroon,Djaoro Mone,9.5953,6.0182,6
+5804,Cameroon,Dompla,12,6,6
+5805,Cameroon,Dompta,15.1545,7.3034,6
+5806,Cameroon,Dondoube,12,6,6
+5811,Cameroon,Gadji Foulbe,12,6,6
+5812,Cameroon,Gaina,13.98333,8.86667,6
+5813,Cameroon,Gandong,12,6,6
+5814,Cameroon,Gari Gombo,15.10912,3.93567,6
+737,Cameroon,Gbabio,12,6,6
+5815,Cameroon,Gbata,13.96667,4.78333,6
+5816,Cameroon,Gbatoua Godole,12,6,6
+5817,Cameroon,Gribi,15.13333,3.71667,6
+5818,Cameroon,Helbao,12,6,6
+5819,Cameroon,Jericho,12,6,6
+5820,Cameroon,Kela Sami,12,6,6
+755,Cameroon,Kombo,14.16667,6.21667,6
+5821,Cameroon,Komboul,14.38333,6.03333,6
+758,Cameroon,Kouba : Point,12,6,6
+5822,Cameroon,Kwele,12,6,6
+5823,Cameroon,Lamou,12,6,6
+763,Cameroon,Langui,12,6,6
+5824,Cameroon,Libongo,12,6,6
+5825,Cameroon,Lolo,14.86667,4.21667,6
+5828,Cameroon,Man Regara,12,6,6
+5829,Cameroon,Mbai-Mboum,13.83333,4.28333,6
+5830,Cameroon,Mbale,10.55,3.03333,6
+5831,Cameroon,Mbodo,15.45251,7.49284,6
+5832,Cameroon,Mbombete,12,6,6
+5834,Cameroon,Mbouma,13.08333,2.73333,6
+5835,Cameroon,Mboy,15.46667,3.45,6
+798,Cameroon,Mimbang : Point,12.75,4.4,6
+5836,Cameroon,Mombal,14.36667,5.61667,6
+5840,Cameroon,Ngam,10.66667,5.21667,6
+5841,Cameroon,Ngaoundal,13.26667,6.5,6
+5842,Cameroon,Ngarisingo,12,6,6
+817,Cameroon,Ngassiri,12,6,6
+5843,Cameroon,Ngoura,14.24369,4.87427,6
+5848,Cameroon,Ouli,15.04797,11.8105,6
+5849,Cameroon,Oundjiki,12,6,6
+5850,Cameroon,Ouro Idje,12,6,6
+5851,Cameroon,Ouro Souley,12,6,6
+5852,Cameroon,Pana,14.23333,4.66667,6
+5853,Cameroon,Petit Ngaoundere,13.58333,7.31667,6
+5854,Cameroon,Roblin,12,6,6
+5855,Cameroon,Roma,14.68333,4.83333,6
+834,Cameroon,Sandaye : Point,12,6,6
+842,Cameroon,Sodepa,12,6,6
+5856,Cameroon,Sourma,12,6,6
+5857,Cameroon,Tikolo,12,6,6
+849,Cameroon,Tongo Gandima : Point,14,5.18333,6
+5858,Cameroon,Touboro,15.3568,7.7708,6
+5859,Cameroon,Wissambo,12,6,6
+5861,Cameroon,Yola,15.03333,4.01667,6
+862,Cameroon,Zamboi,12,6,6
+1358,Democratic Republic of the Congo,Aba (Rudu1),29.62137,3.03868,2
+1359,Democratic Republic of the Congo,Aba (Rudu2),29.62137,3.03868,2
+1373,Democratic Republic of the Congo,Bas-Congo : Province,14.5,-5.5,4
+1382,Democratic Republic of the Congo,Bas-Uele : Territoire - District,24.73333,2.8,3
+5865,Democratic Republic of the Congo,BILI(camp),25.0536,2.83263,5
+1393,Democratic Republic of the Congo,Bondo : Point,23.68665,3.81461,1
+1403,Democratic Republic of the Congo,Dilolo : Point,23.3354,-10.96907,1
+1409,Democratic Republic of the Congo,Doruma (Mandofi),27.68216,4.71636,1
+1416,Democratic Republic of the Congo,Dungu (Kaka1),28.56239,3.61781,2
+1417,Democratic Republic of the Congo,Dungu (Kaka2),28.56239,3.61781,2
+1418,Democratic Republic of the Congo,Dungu (Kpezu),28.56239,3.61781,2
+1421,Democratic Republic of the Congo,Equateur : Province,20.5,1,5
+1427,Democratic Republic of the Congo,Goma : Point,29.22845,-1.67409,1
+1430,Democratic Republic of the Congo,Haut-Uele : Territoire - District,27.61667,2.76667,3
+1440,Democratic Republic of the Congo,Ituri : District,27.00836,1.66607,3
+1449,Democratic Republic of the Congo,Kailo: Territoire,26.06518,-2.42987,3
+1450,Democratic Republic of the Congo,Kainama,25,0,6
+1458,Democratic Republic of the Congo,Kasai orientale(Province),25.00148,4.39942,4
+1485,Democratic Republic of the Congo,Kipindi,17.38779,-4.56522,6
+1493,Democratic Republic of the Congo,Kulindji,18.50737,-7.66628,3
+1494,Democratic Republic of the Congo,Kyabweohe,25,0,5
+1495,Democratic Republic of the Congo,Libenge et Dongo,25,0,5
+5759,Democratic Republic of the Congo,Lusenda (camp),29.10639,-3.89139,3
+1515,Democratic Republic of the Congo,Maniema : Province,25.91667,-2.91667,4
+1517,Democratic Republic of the Congo,Manono : Territoire,27.43333,-7.28333,3
+1520,Democratic Republic of the Congo,Masisi : Point,28.63144,-4.72497,2
+1522,Democratic Republic of the Congo,Mbandaka,18.26034,0.04865,2
+5762,Democratic Republic of the Congo,Meri,25,0,6
+1541,Democratic Republic of the Congo,Napassa,25,0,6
+1576,Democratic Republic of the Congo,Sud-Kivu : Province,28.25,-3.16667,4
+1587,Democratic Republic of the Congo,Tchabi,25,0,6
+1597,Democratic Republic of the Congo,Tshifwameso,19.31024,-7.33852,6
+1598,Democratic Republic of the Congo,Tshilonda (Kasai),22.58769,-6.61741,4
+1601,Democratic Republic of the Congo,Tshopo : Territoire - District,25.11411,0.56257,3
+1604,Democratic Republic of the Congo,Uvira : Point,29.13779,-3.39534,1
+1607,Democratic Republic of the Congo,Various,25,0,6
+1608,Democratic Republic of the Congo,Various (Tshifwameso and Kulindji),25,0,6
+1614,Democratic Republic of the Congo,Zomfi,15.3866,-5.62778,6
+1180,Congo,Enyelle,18.01167,2.8075,1
+1190,Congo,Kintele,14.95778,-3.96528,4
+1192,Congo,Komi : Point,12.16389,-4.47667,6
+1194,Congo,Kondi Mbaka : Point,12.10639,-4.60028,6
+1198,Congo,Lekoumou,13.5,-3,6
+1199,Congo,Liranga,17.60722,-0.65,5
+1204,Congo,Malolo : Point,14.15,-4.26389,5
+1209,Congo,Mavoadi,25,0,6
+1211,Congo,Ndjoundou et Liranga,17.60722,-0.65,5
+1214,Congo,Ngo : Point,20.11714,2.9648,6
+1216,Congo,Niari : Departement,12.21667,-3.98083,3
+1224,Congo,Oyo : Point,27.54124,-1.57972,1
+1229,Congo,Pool : Departement,15,-3.5,6
+1231,Congo,Sangha : Departement,16.81917,-1.21778,4
+1233,Congo,Tchiamba-Nza : Point,25,0,6
+1236,Congo,Tchitanzi,25,0,6
+1622,Djibouti,Aour-Aoussa,42.5,11.5,6
+5593,Djibouti,Obock : Pont,43.29056,11.96306,1
+136,Algeria,Tindouf : Wilaya - Province,-5.83333,27.41667,4
+1729,Eritrea,Elit,37.04563,15.26287,1
+1747,Ethiopia,Ad-Damazin Transit Centre : Point,38,8,6
+1749,Ethiopia,Addis Ababa : Astedader akabibi - Chartered city,38.74689,9.02497,2
+1755,Ethiopia,Akobo,33.04611,7.79492,5
+1768,Ethiopia,Bamboudi (Bamboudi),38,8,6
+1776,Ethiopia,Border areas (Gambella),38,8,6
+1777,Ethiopia,Borena : Awrajja - Zone,38.75934,10.74916,3
+1783,Ethiopia,Dimma (Gambella),38,8,6
+1785,Ethiopia,Dollo Ado Transit Centre : Point,38,8,6
+1775,Ethiopia,Gambella (Bonga),34.58333,8.25,5
+1791,Ethiopia,Gambella Region,34.5,7.83333,4
+1797,Ethiopia,Hartisheik (Jijiga),38,8,6
+5595,Ethiopia,Jewi,38,8,6
+1754,Ethiopia,Jijiga (Aisha),42.8,9.35,2
+1803,Ethiopia,Jijiga (Camaboker),42.8,9.35,2
+1804,Ethiopia,Jijiga (Daror),42.8,9.35,2
+1807,Ethiopia,Jijiga (Rabasso),42.8,9.35,2
+1815,Ethiopia,Leitchour:Point,38,8,6
+5596,Ethiopia,Matar,38,8,6
+5597,Ethiopia,Nguenyyiel : Point,38,8,6
+1821,Ethiopia,Nip Nip: Point,38,8,6
+5598,Ethiopia,NyingNyang : Point,38,8,6
+1824,Ethiopia,Pamdong:Point,38,8,6
+5599,Ethiopia,Pugnido2,38,8,6
+1825,Ethiopia,Raad,38,8,6
+1833,Ethiopia,Teferiber,38,8,6
+5561,Ethiopia,Tsore: Point,38,8,6
+1838,Ethiopia,Wala'ni-hibi,38,8,6
+1769,Ethiopia,Yarenja (Bamboudi),38,8,6
+1868,Gabon,Boumango,13.61429,-2.22678,6
+2013,Ghana,Buduburam : Point,-0.47884,5.52349,1
+2028,Ghana,Volta : Region,0.5,7,6
+2044,Guinea,Boreah,-10,11,6
+2053,Guinea,Kola,-12.95,10.8,3
+2057,Guinea,Kountaya : Point,-9.95,9.58333,1
+2059,Guinea,Laine : Point,-8.48333,8.08333,1
+2062,Guinea,Macenta,-9.47099,8.54351,1
+2063,Guinea,Nonah,-10,11,6
+2064,Guinea,Nzerekore : Prefecture,-8.8179,7.75624,1
+2068,Guinea,Sembakouya,-10,11,6
+2069,Guinea,Telikoro,-9.88333,9.75,1
+1958,Gambia (Islamic Republic of the),Arankol,-42.80194,-5.08917,6
+1959,Gambia (Islamic Republic of the),Bambali,-42.80194,-5.08917,6
+1967,Gambia (Islamic Republic of the),Kitty,-42.80194,-5.08917,6
+1969,Gambia (Islamic Republic of the),Sifoe,-42.80194,-5.08917,6
+2632,Kenya,Dadaab,40.31055,0.05287,1
+2720,Liberia,Banjor,-9.5,6.5,6
+2728,Liberia,Children Home,-9.5,6.5,6
+2729,Liberia,Civil Compound,-9.5,6.5,6
+2732,Liberia,Dougee,-9.5,6.5,6
+2733,Liberia,E. J. Yancy,-9.5,6.5,6
+2735,Liberia,Fendell,-9.5,6.5,6
+2736,Liberia,Fifteen Gate,-8.45833,6.18361,6
+2741,Liberia,Grand Cape Mountain,-11,7.16667,5
+2743,Liberia,Grand Gedeh : County,-8.08333,5.91667,3
+2755,Liberia,Maimu-II,-9.5,6.5,6
+2756,Liberia,Maimu-III,-9.5,6.5,6
+2758,Liberia,Maryland : County,-7.75,4.75,3
+2763,Liberia,Montserrado : County,-10.5,6.5,6
+2769,Liberia,Newland,-9.5,6.5,6
+2770,Liberia,Nimba : County,-8.57083,7.48889,3
+2772,Liberia,Perry Town,-9.5,6.5,6
+2774,Liberia,Promised Land,-9.5,6.5,6
+2783,Liberia,Saclepea,-8.84056,7.10944,6
+2785,Liberia,Samukai,-9.5,6.5,6
+2786,Liberia,Seigbeh,-9.5,6.5,6
+2787,Liberia,Sinje-III,-9.5,6.5,6
+2789,Liberia,Solo : Point,-9.5,6.5,6
+2791,Liberia,Soul Clinic,-9.5,6.5,6
+2792,Liberia,Tumutu,-9.5,6.5,6
+2794,Liberia,VOA,-9.5,6.5,6
+2796,Liberia,Wilson,-9.5,6.5,6
+2797,Liberia,Ziah,-9.5,6.5,6
+2814,Libya,Somali Compound,17,28,6
+2817,Libya,Tripoli : Popularate,13.18746,32.87519,1
+2910,Mali,Kayes : Region,-10.1,13.9,6
+2918,Mali,Loulouni,-5.66667,10.91667,1
+3087,Mozambique,Bobole,32.69417,-25.61194,1
+3105,Mozambique,Massaca,32.3,-25.61667,6
+3137,Namibia,Dukwe,17,-22,6
+3140,Namibia,Kassava,17,-22,6
+3154,Namibia,Onambutu,16.23333,-17.38333,1
+3220,Niger,Goure,10.27035,13.9835,1
+3221,Niger,Intikane,9,18,6
+3235,Niger,Niamey : Capital district,2.1098,13.51366,1
+3243,Niger,Tazalit,9,18,6
+3250,Nigeria,Amana : Point,7.66667,10.71667,1
+3255,Nigeria,Benue : State,8.75,7.33333,4
+3278,Nigeria,Oru Camp,8.4886,7.8989,1
+3890,Rwanda,Byumba,30.0675,-1.5763,1
+5657,Rwanda,Gatore,30.5422,-2.1838,3
+3941,Rwanda,Nkamira (Gisenyi),30,-2,6
+3942,Rwanda,Nyabiheke (Byumba),30.26891,-1.57367,1
+3945,Rwanda,Nyagatare (Cyangugu) : Akarere - District,30.1818,-1.282,1
+3949,Rwanda,Nyamagabe : Akarere - District,29.5946,-2.4691,1
+3953,Rwanda,Nyamure (Butare),29.8667,-1.6514,1
+4301,Sudan,Abu Rakham area : Point,30,16,6
+4309,Sudan,Ading/El Zarzur,32.08333,13.6,3
+4310,Sudan,Adingrar,30,16,6
+4316,Sudan,Armankul : Point,22.16085,13.76834,2
+4321,Sudan,Asotriba : Point,30,16,6
+4323,Sudan,Awad El Seid : Point,30,16,6
+4341,Sudan,Bir Khadija : Point,30,16,6
+4343,Sudan,Bir Saleeba area : Point,30,16,6
+4345,Sudan,Bir Touk : Point,30,16,6
+4347,Sudan,Blue Nile : Wilayat - State,34.1,11.15,4
+4352,Sudan,Central Darfur : Wilayat - State,23.41667,12.33333,4
+4360,Sudan,Dabag : Point,30,16,6
+4366,Sudan,Dehama : Point,30,16,6
+4362,Sudan,Diam El-Nour : Point,30,16,6
+4375,Sudan,Dordeab : Point,30,16,6
+4379,Sudan,Eastern Darfur : Wilayat - State,26.5,11.16667,4
+4395,Sudan,Fath El Rahman : Point,30,16,6
+4407,Sudan,Gargur,30,16,6
+4410,Sudan,Gari and Dabag,30,16,6
+4415,Sudan,Gelu,30,16,6
+4427,Sudan,Gulsa : Point,30,16,6
+4429,Sudan,Habillah : Region,30,16,6
+4433,Sudan,Hawata : Point,30,16,6
+4452,Sudan,Karkora : Point,30,16,6
+4468,Sudan,Kilo 7 : Point,30,16,6
+4471,Sudan,Kolain : Point,30,16,6
+4484,Sudan,Laffa : Point,30,16,6
+4498,Sudan,Mafaza : Point,34.55,13.6,2
+4514,Sudan,Mukjar : Point,23.28316,11.95001,1
+4525,Sudan,Northern Darfur : Wilayat - State,25.5,15.5,6
+4560,Sudan,Safawa : Point,30,16,6
+4564,Sudan,Salmin : Point,30,16,6
+4568,Sudan,Sennar : Wilayat - State,33.56718,13.56907,2
+4579,Sudan,Shagarab,30,16,6
+4588,Sudan,Southern Darfur : Wilayat - State,24.66667,11.5,4
+4589,Sudan,South Kordofan : Wilayat - State,29.93292,10.53018,4
+4595,Sudan,"Suki (Awad El Seid, Fath El Rahman, Kilo 7)",34.68333,14.41667,4
+5660,Sudan,Tawawa,30,16,6
+4601,Sudan,Tendelti : Point,25.34936,13.62793,1
+4603,Sudan,Tenedba,30,16,6
+4615,Sudan,Um Ali : Point,31.2968,12.7253,5
+4618,Sudan,Um brosh : Point,30,16,6
+4622,Sudan,Um Dukhun : Point,30,16,6
+4628,Sudan,Um Gulja : Point,30,16,6
+4632,Sudan,Um Rakuba : Point,25.68333,11.76667,5
+4634,Sudan,Um Sagata,30,16,6
+4635,Sudan,Um Shalaya : Point,30,16,6
+4654,Sudan,Village,30,16,6
+4655,Sudan,Wad Awad,30,16,6
+4656,Sudan,Wad El Hileau : Point,30,16,6
+4669,Sudan,Western Darfur : Wilayat - State,22.66667,13.41667,4
+4671,Sudan,West Kordofan : Wilayat - State,29.93292,10.53018,4
+4677,Sudan,White Nile : Wilayat - State,32.49222,15.60778,4
+4002,Senegal,Dakar,-17.44406,14.6937,1
+4006,Senegal,Matam,-13.5,15.5,6
+4033,Sierra Leone,Bo : District,-11.66667,8,3
+4038,Sierra Leone,Freetown : Point,-13.22994,8.484,1
+4049,Sierra Leone,Jui/ FRT,-11.5,8.5,6
+4058,Sierra Leone,Lungi,-11.63417,7.96611,1
+4119,Somalia,Awdal : Gobolka - Region,43.34036,11.63456,3
+4121,Somalia,Bakool : Gobolka - Region,42.44122,3.96983,3
+4123,Somalia,Banaadir : Gobolka - Region,45.4,2.11667,3
+4125,Somalia,Bari : Gobolka - Region,47.03889,8.03556,3
+4127,Somalia,Bay : Gobolka - Region,43.5,3,6
+4133,Somalia,Galgaduud : Gobolka - Region,48,6,6
+4135,Somalia,Gedo : Gobolka - Region,41.16667,2.25,3
+4139,Somalia,Hiraan : Gobolka - Region,48,6,6
+4141,Somalia,Juba Dhexe : Gobolka - Region,48,6,6
+4143,Somalia,Juba Hoose : Gobolka - Region,48,6,6
+4147,Somalia,Mudug : Gobolka - Region,48,7,6
+4151,Somalia,Nugaal : Gobolka - Region,49,8.16667,3
+4154,Somalia,Sanaag : Gobolka - Region,47.78056,7.39306,3
+4156,Somalia,Shabelle Dhexe : Gobolka - Region,48,6,6
+4158,Somalia,Shabelle Hoose : Gobolka - Region,48,6,6
+4162,Somalia,Sool : Gobolka - Region,49.41667,9.5,3
+4168,Somalia,Togdheer : Gobolka - Region,48.6268,6.4617,3
+4170,Somalia,Woqooyi Galbeed : Gobolka - Region,44.5,10,6
+4208,South Sudan,Lakes State : Wilayat - State,30,6.75,4
+4213,South Sudan,Lelo,31.61718,9.5474,6
+4218,South Sudan,Malakal : County,31.66048,9.53342,1
+4229,South Sudan,Nyeel,30,7.5,6
+5662,South Sudan,Pamir,32.21869,9.84972,6
+4230,South Sudan,Pariang,30,7.5,6
+926,Chad,Adre/Abeche,20.8324,13.82916,1
+936,Chad,Aradib1 : point,19,15,6
+937,Chad,Aradib2 : point,19,15,6
+946,Chad,Betimera,19,15,6
+5665,Chad,Daha 1,19,15,6
+5666,Chad,Daha 2,19,15,6
+955,Chad,Danamadja : Point,18.26877,8.92757,2
+964,Chad,Dogdor�Î�: Point,19,15,6
+966,Chad,Doholo : Point,16.2172,8.6059,2
+969,Chad,East sites,19,15,6
+5668,Chad,Gore and Maro,16.9812,19.85964,6
+979,Chad,Gore : Region,NA,NA,4
+989,Chad,Habile1 : point,19,15,6
+990,Chad,Habile2 : point,19,15,6
+991,Chad,Habile3 : point,19,15,6
+994,Chad,Haraze,16.03341,12.41102,1
+998,Chad,Iridimi : Point,19,15,6
+1000,Chad,Kobitteye: Point,19,15,6
+1007,Chad,Koy,19,15,6
+1010,Chad,Massembagne,20.86811,9.52132,1
+1014,Chad,Moula,18.1102,8.6464,1
+1015,Chad,Mourdy,19,15,6
+1024,Chad,Refugees located along the border : point,19,15,6
+1025,Chad,Salamat : Region,20.5,11,6
+1032,Chad,South sites,19,15,6
+1034,Chad,Tissi : Sub-prefecture,19,15,6
+1036,Chad,Touloum : Point,19,15,6
+5704,Chad,Vom,19,15,6
+1041,Chad,Yaroungou,19,15,6
+4914,Togo,Bassar,0.78106,9.26021,1
+4932,Togo,Tropicana Site,1.16667,8,6
+4960,Tunisia,Shousha : Point,9,34,6
+5275,United Republic of Tanzania,Chogo : Point,35,-6,6
+5280,United Republic of Tanzania,Kane Mbwa (Kibondo),35,-6,6
+5283,United Republic of Tanzania,Karago (Kibondo),30.38528,-4.25333,1
+5291,United Republic of Tanzania,Kitali Hill (Ngara),35,-6,6
+5295,United Republic of Tanzania,Lugufu (Kigoma),29.76667,-5.36667,1
+5298,United Republic of Tanzania,Lukole (Ngara),36.36667,-6.56667,1
+5302,United Republic of Tanzania,Mbuba (Ngara),30.5975,-2.66139,2
+5306,United Republic of Tanzania,Mkugwa (Kibondo),35,-6,6
+5311,United Republic of Tanzania,Mtabila-1 (Kasulu),35,-6,6
+5313,United Republic of Tanzania,Mtabila-2 (Kasulu),35,-6,6
+5322,United Republic of Tanzania,Mwisa (Ngara),31.38333,-1.25,6
+5324,United Republic of Tanzania,Myovosi (Kasulu),35,-6,6
+5326,United Republic of Tanzania,National Milling Co-operation Transit Centre : Point,35,-6,6
+5330,United Republic of Tanzania,Ngara,30.65583,-2.51222,1
+5334,United Republic of Tanzania,Old Settlements,35,-6,6
+5199,Uganda,Adjumani : District,31.7909,3.37786,2
+5200,Uganda,Adjumani / Moyo,31.72474,3.66088,1
+5203,Uganda,Amuru,31.93868,2.81388,1
+5713,Uganda,Bidibidi RC (Yumbe),33,2,6
+5210,Uganda,Ikafe,33,2,6
+5228,Uganda,Madi-Okollo,31.14576,2.65219,3
+5714,Uganda,Nakivale RC (Nakivale),33,2,6
+5715,Uganda,Nyakabande TC (Kisoro),33,2,6
+5716,Uganda,Nyumanzi RC (Adjumani),33,2,6
+5717,Uganda,Ocea RC (Rhino Camp),33,2,6
+5235,Uganda,Okollo,31.14576,2.65219,1
+5238,Uganda,Pader,33.21667,3.05,2
+5239,Uganda,Pakelle,31.85477,3.35685,1
+5718,Uganda,Palorinya RC (Moyo),33,2,6
+5510,Zambia,Kala,29.03233,-9.67178,2
+5518,Zambia,Mwange,22.68333,-13.11667,2
+5519,Zambia,Nangweshi,23.31667,-16.38333,1
+5521,Zambia,Ukwimi,30,-15,6
